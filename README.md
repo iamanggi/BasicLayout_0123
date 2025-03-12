@@ -1,6 +1,6 @@
 # tugas_1
 
-A new Flutter project.
+![Screenshot 2025-03-12 231211](https://github.com/user-attachments/assets/297528a1-041d-4591-a9c7-96517fcd94a1)
 
 ## Getting Started
 
